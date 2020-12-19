@@ -1,0 +1,61 @@
+html {
+    font-size: 16px;
+    line-height: 1.3;
+    font-weight: 400;
+    box-sizing: border-box;
+}
+.divét{
+	border-radius: 10px;
+    padding: 32px 32px 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+.divét:hover{
+	opacity: 0.7;
+    
+}
+.svg{
+	opacity: 0.2;
+	width: 117.3px;
+	height: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.svg:hover{
+	fill: #00B39B;
+	opacity: 1;
+}
+.IMG{
+	filter: grayscale(95%);
+	opacity: 0.5;
+
+}
+.IMG:hover{
+	filter: none;
+	opacity: 1;
+}
+
+
+.sectionkobr{
+	width: 100%;
+	height: 570px;
+	background-color:#D9F7F6;
+}
+.sectionInner{
+	padding-top:70px;
+	padding-left: 80px;
+}
+.wahdabarka{
+width: 210.25px;
+height: 250px;
+background-color: white;	
+}
+ .partiewhite{
+ 	width: 100%;
+ 	height: 200px;
+ }
